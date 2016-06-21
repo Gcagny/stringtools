@@ -35,3 +35,6 @@ first loop -> myString and strp
 second loop ->myString and str
 last loop -> myString and st
 
+####replaceAll(search[string],replacement[string])
+search : the word you want to change
+replacement: the replacement word

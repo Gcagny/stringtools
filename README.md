@@ -29,8 +29,9 @@ return an array.
 Exemple:
 ````
 myString.searchpart("strp",2,true,true);
-will be compared :
-first loop myString and strp
-second loop myString and str
-last loop  myString and st
 ````
+will be compared :
+first loop -> myString and strp
+second loop ->myString and str
+last loop -> myString and st
+
